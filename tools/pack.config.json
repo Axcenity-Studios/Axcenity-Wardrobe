@@ -4,7 +4,9 @@
   "version": "0.1.0",
   "author": "Axcenity",
   "licence": "CC-BY-4.0",
-  "credit": "Axcenity Wardrobe by Axcenity, CC BY 4.0",
+  "credit": "Axcenity Wardrobe by Axcenity, CC BY 4.0, https://github.com/Axcenity-Studios/Axcenity-Wardrobe",
+  "repository": "https://github.com/Axcenity-Studios/Axcenity-Wardrobe",
+  "files_at": "https://raw.githubusercontent.com/Axcenity-Studios/Axcenity-Wardrobe/main/",
   "items_with_prefix": "generated/",
   "held_back": {
     "generated/maxi-dress": "the loose strips of the skirt fly apart",

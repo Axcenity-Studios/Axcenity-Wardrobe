@@ -1,6 +1,6 @@
 # Axcenity Wardrobe
 
-Clothing for the realistic character of the [Axcenity Engine](https://github.com/PaulJanota/Axcenity-Engine): 30 garments, each fitted to the body so it follows every body shape and the skeleton, with its colour, normal and roughness maps.
+Clothing for the realistic character of the [Axcenity Engine](https://github.com/Axcenity-Studios/Axcenity-Engine): 30 garments, each fitted to the body so it follows every body shape and the skeleton, with its colour, normal and roughness maps.
 
 **Every garment here is a draft.** They are usable and they have faults; see [Known faults](#known-faults).
 
@@ -14,33 +14,45 @@ Pictures of all of them are in [GALLERY.md](GALLERY.md).
 
 | Path | What it is |
 |---|---|
-| `pack.json` | The index: every garment with its ID, label, slot, layer, triangle count, preview, and each file's size and SHA-256. Read this to list or download the pack |
+| `pack.json` | The index: every garment with its ID, label, slot, layer, triangle count, preview, and each file's size and SHA-256. Read this to list or download the pack: a file's address is `files_at` followed by its `path` |
 | `library/` | The garments, at the paths they take in a character library (`realistic/imports/<name>/`): the model (`.glb`), its manifest (`.item.json`), its fit data (`.binding.json`) and its thumbnail |
 | `previews/` | One 512-pixel picture of each garment |
 | `outfits/` | 21 characters (`*.character.json`) that wear them, to try the garments with |
-| `install.py` | Puts the garments into a character library |
+| `install.py` | Puts the garments into a character library, downloading them when it is run on its own |
 | `tools/` | What builds this pack from a library the garments were imported into |
 
 The garments are 627 MB together, between 11 and 45 MB each. Most of that is the 138 body shapes every garment carries.
 
 ## Install
 
-You need a project made with the engine (its character library is `assets/characters/` inside the project) and Python 3.8 or later.
+The garments are not part of the engine: they are downloaded from this repository into a project. You need a project made with the engine (its character library is `assets/characters/` inside the project) and Python 3.8 or later.
+
+**Download only what you want.** `install.py` is enough on its own; it fetches the garments you ask for and checks each file:
 
 ```bash
-git clone https://github.com/PaulJanota/Axcenity-Wardrobe
+curl -LO https://raw.githubusercontent.com/Axcenity-Studios/Axcenity-Wardrobe/main/install.py
+python -I install.py --list
+python -I install.py <your project>/assets/characters --only jacket --only jeans
+```
+
+Without `--only` it downloads all 30 (627 MB). `--remove` takes them out again.
+
+**Or clone everything** and install from the clone, with no further downloading:
+
+```bash
+git clone https://github.com/Axcenity-Studios/Axcenity-Wardrobe
 python -I Axcenity-Wardrobe/install.py <your project>/assets/characters
 ```
 
-`--only <text>` takes the garments whose ID contains the text (`--only jacket --only jeans`), and `--remove` takes them out again. The garments then show in Character Studio's wardrobe, under the IDs `generated/<name>`.
+Either way the garments then show in Character Studio's wardrobe, under the IDs `generated/<name>`.
 
-To take one garment without the rest, read `pack.json`: `items[].files` lists the four files of each garment. Copy them to the same path under your library without the leading `library/`, and add the item's `catalogue` entry to `items` in the library's `catalogue.json`, which is kept sorted by ID.
+**From your own code** (a website, a tool), read [pack.json](pack.json): `items[].files` lists the four files of each garment, and a file's address is `files_at` followed by its `path`. Put them at the same path under the library without the leading `library/`, and add the item's `catalogue` entry to `items` in the library's `catalogue.json`, which is kept sorted by ID.
 
 ## Licence and credit
 
 The garments, pictures, outfits and scripts in this repository are licensed under [Creative Commons Attribution 4.0 International](LICENSE) (CC BY 4.0). You may use them in any game, commercial ones included, and change them, as long as you give credit:
 
-> Axcenity Wardrobe by Axcenity, CC BY 4.0
+> Axcenity Wardrobe by Axcenity, CC BY 4.0, https://github.com/Axcenity-Studios/Axcenity-Wardrobe
 
 Each garment's manifest records the same author and licence (`source`).
 

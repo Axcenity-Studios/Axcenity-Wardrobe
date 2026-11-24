@@ -110,6 +110,7 @@ def main():
             "id": config["id"], "name": config["name"], "version": config["version"],
             "date": datetime.date.today().isoformat(),
             "author": config["author"], "licence": config["licence"], "credit": config["credit"],
+            "repository": config["repository"], "files_at": config["files_at"],
             "bases": sorted(bases), "bytes": sum(i["bytes"] for i in items),
             "items": items, "outfits": outfits,
             "held_back": [{"id": k, "why": v} for k, v in sorted(held_back.items())]}
