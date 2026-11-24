@@ -1,0 +1,1826 @@
+{
+  "format": "axcenity-character-pack",
+  "format_version": 1,
+  "id": "axcenity/wardrobe",
+  "name": "Axcenity Wardrobe",
+  "version": "0.1.0",
+  "date": "2026-11-24",
+  "author": "Axcenity",
+  "licence": "CC-BY-4.0",
+  "credit": "Axcenity Wardrobe by Axcenity, CC BY 4.0",
+  "bases": [
+    "axcenity/realistic"
+  ],
+  "bytes": 626802726,
+  "items": [
+    {
+      "id": "generated/biker-jacket",
+      "label": "Biker jacket",
+      "kind": "garment",
+      "slot": "outerwear",
+      "layer": 3,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 9999,
+      "shapes": 138,
+      "bytes": 27557785,
+      "preview": "previews/biker-jacket.png",
+      "catalogue": {
+        "id": "generated/biker-jacket",
+        "manifest": "realistic/imports/biker-jacket/BikerJacket.item.json",
+        "label": "Biker jacket",
+        "kind": "garment",
+        "slot": "outerwear",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/biker-jacket/BikerJacket.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/biker-jacket/BikerJacket.binding.json",
+          "bytes": 1823564,
+          "sha256": "7ad2e00f17c18c162ef7e6eaa554cf51ac5f03cd667a5e365ecdf2fa40b90fac"
+        },
+        {
+          "path": "library/realistic/imports/biker-jacket/BikerJacket.glb",
+          "bytes": 25710720,
+          "sha256": "d07cef76edaa45b97ee95488dabc8ba1aa33b15abba9fa567a7ba32131434ca2"
+        },
+        {
+          "path": "library/realistic/imports/biker-jacket/BikerJacket.item.json",
+          "bytes": 655,
+          "sha256": "1ecc589333fb99077738440ef2822a0171bf2e29810f203b04dd0db5dcd2be66"
+        },
+        {
+          "path": "library/realistic/imports/biker-jacket/BikerJacket.png",
+          "bytes": 22846,
+          "sha256": "7b240aedac9d9ccd61887666835085e957fef4026298b712650ba0d26a7c2f1e"
+        }
+      ]
+    },
+    {
+      "id": "generated/bomber-jacket",
+      "label": "Bomber jacket",
+      "kind": "garment",
+      "slot": "outerwear",
+      "layer": 3,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 10000,
+      "shapes": 138,
+      "bytes": 27057739,
+      "preview": "previews/bomber-jacket.png",
+      "catalogue": {
+        "id": "generated/bomber-jacket",
+        "manifest": "realistic/imports/bomber-jacket/BomberJacket.item.json",
+        "label": "Bomber jacket",
+        "kind": "garment",
+        "slot": "outerwear",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/bomber-jacket/BomberJacket.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/bomber-jacket/BomberJacket.binding.json",
+          "bytes": 1668611,
+          "sha256": "8cb176efbbbf29c3db9b3e5fe74ec69b239068b0d2b206ca66da3daf4ec63af4"
+        },
+        {
+          "path": "library/realistic/imports/bomber-jacket/BomberJacket.glb",
+          "bytes": 25356540,
+          "sha256": "bc3acfefe474bf60dd928611c23c2329cbc6af1144af63bd44b2a54e38bbba3e"
+        },
+        {
+          "path": "library/realistic/imports/bomber-jacket/BomberJacket.item.json",
+          "bytes": 661,
+          "sha256": "12860c3e474b14f96c0ffc190ede86ba6bf79c6a26592a062731a4c8eb63e947"
+        },
+        {
+          "path": "library/realistic/imports/bomber-jacket/BomberJacket.png",
+          "bytes": 31927,
+          "sha256": "a2c195a5452c01fb96bc558a77c683d44a4dbefa036cdc10ac5054018a42b5d1"
+        }
+      ]
+    },
+    {
+      "id": "generated/burgundy-dress",
+      "label": "Evening dress",
+      "kind": "garment",
+      "slot": "top",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 10000,
+      "shapes": 138,
+      "bytes": 17368493,
+      "preview": "previews/burgundy-dress.png",
+      "catalogue": {
+        "id": "generated/burgundy-dress",
+        "manifest": "realistic/imports/burgundy-dress/EveningDress.item.json",
+        "label": "Evening dress",
+        "kind": "garment",
+        "slot": "top",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/burgundy-dress/EveningDress.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/burgundy-dress/EveningDress.binding.json",
+          "bytes": 1272104,
+          "sha256": "3c5c0558e4476c2d6f061bab6da4cc5a43b9241de759460272469b8e4e8205b8"
+        },
+        {
+          "path": "library/realistic/imports/burgundy-dress/EveningDress.glb",
+          "bytes": 16071160,
+          "sha256": "f48d41456837f4dc67f9e7a3f467a08e287921e87f646cb4aae541682d3027a9"
+        },
+        {
+          "path": "library/realistic/imports/burgundy-dress/EveningDress.item.json",
+          "bytes": 656,
+          "sha256": "738a22ce87ce8332ea7f0fc6cda7a05a3eba2dc1325ee41203486b3402eebd05"
+        },
+        {
+          "path": "library/realistic/imports/burgundy-dress/EveningDress.png",
+          "bytes": 24573,
+          "sha256": "5df20b4d8cd5d3e0334c339d1150a461e36aa00d227aa0d30a14d784250e8773"
+        }
+      ]
+    },
+    {
+      "id": "generated/cargo-pants",
+      "label": "Cargo pants",
+      "kind": "garment",
+      "slot": "bottom",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 7531,
+      "shapes": 138,
+      "bytes": 19201714,
+      "preview": "previews/cargo-pants.png",
+      "catalogue": {
+        "id": "generated/cargo-pants",
+        "manifest": "realistic/imports/cargo-pants/CargoPants.item.json",
+        "label": "Cargo pants",
+        "kind": "garment",
+        "slot": "bottom",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/cargo-pants/CargoPants.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/cargo-pants/CargoPants.binding.json",
+          "bytes": 1226796,
+          "sha256": "6fab8980f478288be4470ee81e36410340df74f11431fa197a0d8218bc2e8177"
+        },
+        {
+          "path": "library/realistic/imports/cargo-pants/CargoPants.glb",
+          "bytes": 17947412,
+          "sha256": "1d5b89dd20b62b4d596bb2df0e7de04b8f58e76b7d247b8a68f0f5f4c7c09344"
+        },
+        {
+          "path": "library/realistic/imports/cargo-pants/CargoPants.item.json",
+          "bytes": 646,
+          "sha256": "70919bb074a92c1467c938da8670dcf5dc05ef781da00bdeb5247bb1a1cd8312"
+        },
+        {
+          "path": "library/realistic/imports/cargo-pants/CargoPants.png",
+          "bytes": 26860,
+          "sha256": "19364033f610270e32dddf94b192e80bb6984e3fb7ee41297a4f674599b44f0c"
+        }
+      ]
+    },
+    {
+      "id": "generated/chino-shorts",
+      "label": "Chino shorts",
+      "kind": "garment",
+      "slot": "bottom",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 5999,
+      "shapes": 138,
+      "bytes": 13759531,
+      "preview": "previews/chino-shorts.png",
+      "catalogue": {
+        "id": "generated/chino-shorts",
+        "manifest": "realistic/imports/chino-shorts/ChinoShorts.item.json",
+        "label": "Chino shorts",
+        "kind": "garment",
+        "slot": "bottom",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/chino-shorts/ChinoShorts.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/chino-shorts/ChinoShorts.binding.json",
+          "bytes": 793492,
+          "sha256": "46d004c73ca3ae6efcce445d25471cc2420ddfbc8dc056d9bcd44f524bb1b3cd"
+        },
+        {
+          "path": "library/realistic/imports/chino-shorts/ChinoShorts.glb",
+          "bytes": 12916804,
+          "sha256": "c6aae37f6f8af53f70b4edf432c7391277b3a786de9a8e67865f6b8cac6e57d3"
+        },
+        {
+          "path": "library/realistic/imports/chino-shorts/ChinoShorts.item.json",
+          "bytes": 652,
+          "sha256": "1ef05644a632189765fea39f23961de51303d14d2cfc2b2425e8fe5f0a997ea0"
+        },
+        {
+          "path": "library/realistic/imports/chino-shorts/ChinoShorts.png",
+          "bytes": 48583,
+          "sha256": "3d38c400c172d1230dc164061d74310dfdd9d831cf1afe782bb1c33152aa1f92"
+        }
+      ]
+    },
+    {
+      "id": "generated/cocktail-dress",
+      "label": "Cocktail dress",
+      "kind": "garment",
+      "slot": "top",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 10000,
+      "shapes": 138,
+      "bytes": 18457695,
+      "preview": "previews/cocktail-dress.png",
+      "catalogue": {
+        "id": "generated/cocktail-dress",
+        "manifest": "realistic/imports/cocktail-dress/CocktailDress.item.json",
+        "label": "Cocktail dress",
+        "kind": "garment",
+        "slot": "top",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/cocktail-dress/CocktailDress.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/cocktail-dress/CocktailDress.binding.json",
+          "bytes": 1138863,
+          "sha256": "ae0b8a1711a23bba67aa9fbea755b8497cbff210a9e67be8a3c42ea8711c042b"
+        },
+        {
+          "path": "library/realistic/imports/cocktail-dress/CocktailDress.glb",
+          "bytes": 17285588,
+          "sha256": "e11358e790b50595a0a28d67bd1875f868e66217c0b1b0123050cf7b09f94ba8"
+        },
+        {
+          "path": "library/realistic/imports/cocktail-dress/CocktailDress.item.json",
+          "bytes": 661,
+          "sha256": "9480d626d25f69a1f94107b1bb23da804b94ac72e9aa64e1a9ebff7440826390"
+        },
+        {
+          "path": "library/realistic/imports/cocktail-dress/CocktailDress.png",
+          "bytes": 32583,
+          "sha256": "fd5d194ef6ac5abe2d1dbaf7dd8be57680ee00fc39cb51bfe8615db64fe299b3"
+        }
+      ]
+    },
+    {
+      "id": "generated/cropped-sweatshirt",
+      "label": "Cropped sweatshirt",
+      "kind": "garment",
+      "slot": "top",
+      "layer": 2,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 6000,
+      "shapes": 138,
+      "bytes": 14365943,
+      "preview": "previews/cropped-sweatshirt.png",
+      "catalogue": {
+        "id": "generated/cropped-sweatshirt",
+        "manifest": "realistic/imports/cropped-sweatshirt/CroppedSweatshirt.item.json",
+        "label": "Cropped sweatshirt",
+        "kind": "garment",
+        "slot": "top",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/cropped-sweatshirt/CroppedSweatshirt.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/cropped-sweatshirt/CroppedSweatshirt.binding.json",
+          "bytes": 745365,
+          "sha256": "e32c43f6a3d5e96c1876953800101a84f260d21f2c639d6af885fbcf86528f01"
+        },
+        {
+          "path": "library/realistic/imports/cropped-sweatshirt/CroppedSweatshirt.glb",
+          "bytes": 13597804,
+          "sha256": "e369b04a720cce44a002fffc08ea8ac8e2db5f86754815ecd3a5b08667ca0ba2"
+        },
+        {
+          "path": "library/realistic/imports/cropped-sweatshirt/CroppedSweatshirt.item.json",
+          "bytes": 685,
+          "sha256": "cbe323d7341a226325547d9742d155f4a3bb59331ebbfb01ac713bce62f8c395"
+        },
+        {
+          "path": "library/realistic/imports/cropped-sweatshirt/CroppedSweatshirt.png",
+          "bytes": 22089,
+          "sha256": "873b4c580b637df1bf713c2e60c772327e2ef2eda043dbd2dbeb771867628ca2"
+        }
+      ]
+    },
+    {
+      "id": "generated/denim-shorts",
+      "label": "Denim shorts",
+      "kind": "garment",
+      "slot": "bottom",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 5999,
+      "shapes": 138,
+      "bytes": 16339104,
+      "preview": "previews/denim-shorts.png",
+      "catalogue": {
+        "id": "generated/denim-shorts",
+        "manifest": "realistic/imports/denim-shorts/DenimShorts.item.json",
+        "label": "Denim shorts",
+        "kind": "garment",
+        "slot": "bottom",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/denim-shorts/DenimShorts.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/denim-shorts/DenimShorts.binding.json",
+          "bytes": 862651,
+          "sha256": "b2bce8ad75894774f41e3753c2d0c73ba819e468ab6be3fca8e5bf72d5e9276c"
+        },
+        {
+          "path": "library/realistic/imports/denim-shorts/DenimShorts.glb",
+          "bytes": 15435644,
+          "sha256": "ffd6b356525051c8cb00c171bcd9a09346ee3170d46af43e7f407b865e458577"
+        },
+        {
+          "path": "library/realistic/imports/denim-shorts/DenimShorts.item.json",
+          "bytes": 652,
+          "sha256": "6b71bab5f326aff1dd6835d8007dcf729c3533af0a1ee94e8fcc20282cdaf940"
+        },
+        {
+          "path": "library/realistic/imports/denim-shorts/DenimShorts.png",
+          "bytes": 40157,
+          "sha256": "cec7bf445e814d9479475180ff4040703aea6c20d61cb7bb4911cd78d6dbbb27"
+        }
+      ]
+    },
+    {
+      "id": "generated/dress-trousers",
+      "label": "Dress trousers",
+      "kind": "garment",
+      "slot": "bottom",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 5999,
+      "shapes": 138,
+      "bytes": 15000410,
+      "preview": "previews/dress-trousers.png",
+      "catalogue": {
+        "id": "generated/dress-trousers",
+        "manifest": "realistic/imports/dress-trousers/DressTrousers.item.json",
+        "label": "Dress trousers",
+        "kind": "garment",
+        "slot": "bottom",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/dress-trousers/DressTrousers.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/dress-trousers/DressTrousers.binding.json",
+          "bytes": 951915,
+          "sha256": "01dbc5363be7bb96fbee28ef5ef6bc893f8adaa21c3019f6b1a8574aa11edb74"
+        },
+        {
+          "path": "library/realistic/imports/dress-trousers/DressTrousers.glb",
+          "bytes": 14027560,
+          "sha256": "782be472bce03097ea598fc9f37fa9a5b6051049e754f3d268d8e5643f81c648"
+        },
+        {
+          "path": "library/realistic/imports/dress-trousers/DressTrousers.item.json",
+          "bytes": 664,
+          "sha256": "1187eb37632e30bebe46b8d3e12f745e5ec6290e4b7bbf926a9e9d312b3e8f16"
+        },
+        {
+          "path": "library/realistic/imports/dress-trousers/DressTrousers.png",
+          "bytes": 20271,
+          "sha256": "26baa88473816ffc20d01366fad0183bb624ee45d52d397ce62e8492dde04998"
+        }
+      ]
+    },
+    {
+      "id": "generated/flannel-shirt",
+      "label": "Flannel shirt",
+      "kind": "garment",
+      "slot": "top",
+      "layer": 2,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 5999,
+      "shapes": 138,
+      "bytes": 19810408,
+      "preview": "previews/flannel-shirt.png",
+      "catalogue": {
+        "id": "generated/flannel-shirt",
+        "manifest": "realistic/imports/flannel-shirt/FlannelShirt.item.json",
+        "label": "Flannel shirt",
+        "kind": "garment",
+        "slot": "top",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/flannel-shirt/FlannelShirt.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/flannel-shirt/FlannelShirt.binding.json",
+          "bytes": 940168,
+          "sha256": "19465dc3160c00ebab31998be6535f7424273b51424683fa85a3b6f0e95780a4"
+        },
+        {
+          "path": "library/realistic/imports/flannel-shirt/FlannelShirt.glb",
+          "bytes": 18844048,
+          "sha256": "14823a0bde12a91f7c4601b3dc382741ec70d5277c8bd33c17a08f635e11b56a"
+        },
+        {
+          "path": "library/realistic/imports/flannel-shirt/FlannelShirt.item.json",
+          "bytes": 655,
+          "sha256": "7abc0841ab88f5ab49a4c23a49978ab5b079088d8ffa526aa262b0742ca3b637"
+        },
+        {
+          "path": "library/realistic/imports/flannel-shirt/FlannelShirt.png",
+          "bytes": 25537,
+          "sha256": "ceaa150ca493359e323c6d9aaf25ed8b1fe56b70b9653575c321f8c59b4147ca"
+        }
+      ]
+    },
+    {
+      "id": "generated/jumpsuit",
+      "label": "Jumpsuit",
+      "kind": "garment",
+      "slot": "top",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 9999,
+      "shapes": 138,
+      "bytes": 22793473,
+      "preview": "previews/jumpsuit.png",
+      "catalogue": {
+        "id": "generated/jumpsuit",
+        "manifest": "realistic/imports/jumpsuit/Jumpsuit.item.json",
+        "label": "Jumpsuit",
+        "kind": "garment",
+        "slot": "top",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/jumpsuit/Jumpsuit.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/jumpsuit/Jumpsuit.binding.json",
+          "bytes": 1283662,
+          "sha256": "429b3f446eabbf4510e0675982cb32f41de67ac9f8c24d6d0894d7109738e9a5"
+        },
+        {
+          "path": "library/realistic/imports/jumpsuit/Jumpsuit.glb",
+          "bytes": 21481872,
+          "sha256": "a66dfe34d6627d763868526dbc9d732d134cc5411df354e4ce02c1ac16cb9abc"
+        },
+        {
+          "path": "library/realistic/imports/jumpsuit/Jumpsuit.item.json",
+          "bytes": 629,
+          "sha256": "9269f95fa897e02bea2716f75699fd20a4eab8bdffbdfd2d9210fdf980f306fc"
+        },
+        {
+          "path": "library/realistic/imports/jumpsuit/Jumpsuit.png",
+          "bytes": 27310,
+          "sha256": "c88b0612cb31aa465e0c989ec3940341f9f9068edfd7b9c06cbce5e3ff95899f"
+        }
+      ]
+    },
+    {
+      "id": "generated/leather-mini-skirt",
+      "label": "Leather mini skirt",
+      "kind": "garment",
+      "slot": "bottom",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 9503,
+      "shapes": 138,
+      "bytes": 27097227,
+      "preview": "previews/leather-mini-skirt.png",
+      "catalogue": {
+        "id": "generated/leather-mini-skirt",
+        "manifest": "realistic/imports/leather-mini-skirt/LeatherMiniSkirt.item.json",
+        "label": "Leather mini skirt",
+        "kind": "garment",
+        "slot": "bottom",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/leather-mini-skirt/LeatherMiniSkirt.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/leather-mini-skirt/LeatherMiniSkirt.binding.json",
+          "bytes": 1789530,
+          "sha256": "44c6fc4f9648197c33e61d6d073ee0136f7b9238a52b99602e5e8e970841ef16"
+        },
+        {
+          "path": "library/realistic/imports/leather-mini-skirt/LeatherMiniSkirt.glb",
+          "bytes": 25271584,
+          "sha256": "198ed2c0048d452a4594d1c144ff5b86d0037aeec5e668e6967d9354ebf1918d"
+        },
+        {
+          "path": "library/realistic/imports/leather-mini-skirt/LeatherMiniSkirt.item.json",
+          "bytes": 684,
+          "sha256": "14ecebc5bcb814be2cf6c6d35fb07f80698043efffcd622f428649f757113bbc"
+        },
+        {
+          "path": "library/realistic/imports/leather-mini-skirt/LeatherMiniSkirt.png",
+          "bytes": 35429,
+          "sha256": "80d4777cd5d25da2e127fe9c0dd029a6eb0655ec903f6402bf8034d4179ce967"
+        }
+      ]
+    },
+    {
+      "id": "generated/leggings",
+      "label": "Athletic leggings",
+      "kind": "garment",
+      "slot": "bottom",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 6000,
+      "shapes": 138,
+      "bytes": 11384466,
+      "preview": "previews/leggings.png",
+      "catalogue": {
+        "id": "generated/leggings",
+        "manifest": "realistic/imports/leggings/AthleticLeggings.item.json",
+        "label": "Athletic leggings",
+        "kind": "garment",
+        "slot": "bottom",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/leggings/AthleticLeggings.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/leggings/AthleticLeggings.binding.json",
+          "bytes": 686446,
+          "sha256": "4a709d5170e82c840025ac0f5abb325cff9845cffac43b5f11cb81a139f9b743"
+        },
+        {
+          "path": "library/realistic/imports/leggings/AthleticLeggings.glb",
+          "bytes": 10676900,
+          "sha256": "1b04cef0252defb2e9c59aec330bb25e31ca161076d4070a25f113d06504447e"
+        },
+        {
+          "path": "library/realistic/imports/leggings/AthleticLeggings.item.json",
+          "bytes": 673,
+          "sha256": "f6b51df5d3d89bc67ca74d0a3da204cee1bc304b46a8d17a62786237898818e2"
+        },
+        {
+          "path": "library/realistic/imports/leggings/AthleticLeggings.png",
+          "bytes": 20447,
+          "sha256": "0eb34c09d3cd2f7bfd211bb48704d767ee6dc1a8db14686b9289e0c81be166b5"
+        }
+      ]
+    },
+    {
+      "id": "generated/off-shoulder-top",
+      "label": "Off-shoulder top",
+      "kind": "garment",
+      "slot": "top",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 6000,
+      "shapes": 138,
+      "bytes": 15341205,
+      "preview": "previews/off-shoulder-top.png",
+      "catalogue": {
+        "id": "generated/off-shoulder-top",
+        "manifest": "realistic/imports/off-shoulder-top/OffShoulderTop.item.json",
+        "label": "Off-shoulder top",
+        "kind": "garment",
+        "slot": "top",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/off-shoulder-top/OffShoulderTop.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/off-shoulder-top/OffShoulderTop.binding.json",
+          "bytes": 821221,
+          "sha256": "db604a9b002cddcd2dcdf79e98c9085209f563efae17ca326cd68917c534002b"
+        },
+        {
+          "path": "library/realistic/imports/off-shoulder-top/OffShoulderTop.glb",
+          "bytes": 14488520,
+          "sha256": "e66f91bf090a31148dd1151aa624baa58180e0a30613ca7a1cab92d0c9a87748"
+        },
+        {
+          "path": "library/realistic/imports/off-shoulder-top/OffShoulderTop.item.json",
+          "bytes": 669,
+          "sha256": "8bb5dda8efdcc8023a46a291ee79f2c3d2f4bc0173f11bca0fd2caeb66ff950b"
+        },
+        {
+          "path": "library/realistic/imports/off-shoulder-top/OffShoulderTop.png",
+          "bytes": 30795,
+          "sha256": "5aab87b418cff6fe7bfe7da4c59506c3f42d8b2f4f5aa9f3ddd41b1c20188b3b"
+        }
+      ]
+    },
+    {
+      "id": "generated/overalls",
+      "label": "Denim overalls",
+      "kind": "garment",
+      "slot": "top",
+      "layer": 2,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 10000,
+      "shapes": 138,
+      "bytes": 23251201,
+      "preview": "previews/overalls.png",
+      "catalogue": {
+        "id": "generated/overalls",
+        "manifest": "realistic/imports/overalls/DenimOveralls.item.json",
+        "label": "Denim overalls",
+        "kind": "garment",
+        "slot": "top",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/overalls/DenimOveralls.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/overalls/DenimOveralls.binding.json",
+          "bytes": 1335869,
+          "sha256": "0333b49ae4535b6d2efebf376ee25d81ffa49a0a2ac7e84482ec05ff84c1296e"
+        },
+        {
+          "path": "library/realistic/imports/overalls/DenimOveralls.glb",
+          "bytes": 21890588,
+          "sha256": "23bcc2c27e052365a4c59eb9ca7d6c7f55c688d3441e1b135ffcc79538570da9"
+        },
+        {
+          "path": "library/realistic/imports/overalls/DenimOveralls.item.json",
+          "bytes": 689,
+          "sha256": "0d4dddb67360d121b40e093b11168e501b311d21f4b5b85e81f0713095a55669"
+        },
+        {
+          "path": "library/realistic/imports/overalls/DenimOveralls.png",
+          "bytes": 24055,
+          "sha256": "af7afa7eb5154f9f0213f89179ca8e62acef0128504253ffc8368e66843e2580"
+        }
+      ]
+    },
+    {
+      "id": "generated/polo",
+      "label": "Polo shirt",
+      "kind": "garment",
+      "slot": "top",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 5999,
+      "shapes": 138,
+      "bytes": 16420391,
+      "preview": "previews/polo.png",
+      "catalogue": {
+        "id": "generated/polo",
+        "manifest": "realistic/imports/polo/PoloShirt.item.json",
+        "label": "Polo shirt",
+        "kind": "garment",
+        "slot": "top",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/polo/PoloShirt.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/polo/PoloShirt.binding.json",
+          "bytes": 872849,
+          "sha256": "9d1ada0346b5b464a379736250cc0d25f0adbed8f12cf3868f53d0785fc4cb37"
+        },
+        {
+          "path": "library/realistic/imports/polo/PoloShirt.glb",
+          "bytes": 15513568,
+          "sha256": "f0edfda9c9fdba86441536838bdfca4bb7dffeb0b340725ef22a070f2d33bd7a"
+        },
+        {
+          "path": "library/realistic/imports/polo/PoloShirt.item.json",
+          "bytes": 631,
+          "sha256": "61fb07ae06d26a5e87c43d9ece14f9cf3fc26b897cbd40ec4961fd1995631048"
+        },
+        {
+          "path": "library/realistic/imports/polo/PoloShirt.png",
+          "bytes": 33343,
+          "sha256": "a1067c30aaefe700ca5994270096a4c0d0ecdb6a8aec506d1b611579b590ae00"
+        }
+      ]
+    },
+    {
+      "id": "generated/puff-blouse",
+      "label": "Puff-sleeve blouse",
+      "kind": "garment",
+      "slot": "top",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 9180,
+      "shapes": 138,
+      "bytes": 27237865,
+      "preview": "previews/puff-blouse.png",
+      "catalogue": {
+        "id": "generated/puff-blouse",
+        "manifest": "realistic/imports/puff-blouse/PuffSleeveBlouse.item.json",
+        "label": "Puff-sleeve blouse",
+        "kind": "garment",
+        "slot": "top",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/puff-blouse/PuffSleeveBlouse.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/puff-blouse/PuffSleeveBlouse.binding.json",
+          "bytes": 1724834,
+          "sha256": "38717989c751aca3bcdf043a58ea9be0e5603d59e0018300f849bdcd26176f07"
+        },
+        {
+          "path": "library/realistic/imports/puff-blouse/PuffSleeveBlouse.glb",
+          "bytes": 25477664,
+          "sha256": "e8738d3661cffead470ccb587b1b5c627180f6206e70cb4d84ae6e2691542c87"
+        },
+        {
+          "path": "library/realistic/imports/puff-blouse/PuffSleeveBlouse.item.json",
+          "bytes": 674,
+          "sha256": "c752089ddc30c3fe5d9c15756381de485a15e97a74e4b2b12146a3731b8e6241"
+        },
+        {
+          "path": "library/realistic/imports/puff-blouse/PuffSleeveBlouse.png",
+          "bytes": 34693,
+          "sha256": "7019759d139d3aafc92016a8511a51ac72ffb38df8b44337720f1f03c4330e0c"
+        }
+      ]
+    },
+    {
+      "id": "generated/puffer-jacket",
+      "label": "Puffer jacket",
+      "kind": "garment",
+      "slot": "outerwear",
+      "layer": 3,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 12851,
+      "shapes": 138,
+      "bytes": 44679518,
+      "preview": "previews/puffer-jacket.png",
+      "catalogue": {
+        "id": "generated/puffer-jacket",
+        "manifest": "realistic/imports/puffer-jacket/PufferJacket.item.json",
+        "label": "Puffer jacket",
+        "kind": "garment",
+        "slot": "outerwear",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/puffer-jacket/PufferJacket.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/puffer-jacket/PufferJacket.binding.json",
+          "bytes": 2399152,
+          "sha256": "4548e83e0f918335df0102bea9fdaee35168b4a8ddfd17b30b39212fe4ff00d7"
+        },
+        {
+          "path": "library/realistic/imports/puffer-jacket/PufferJacket.glb",
+          "bytes": 42252148,
+          "sha256": "1c4a527070e76a515c01b602e1ce8b7f24e3ff487156cedcb88e1b1f447c87a3"
+        },
+        {
+          "path": "library/realistic/imports/puffer-jacket/PufferJacket.item.json",
+          "bytes": 661,
+          "sha256": "7f84f61101f9882ab4f87d75968bc996759ceef9e8ecfa6bc82568f9cf68d5a9"
+        },
+        {
+          "path": "library/realistic/imports/puffer-jacket/PufferJacket.png",
+          "bytes": 27557,
+          "sha256": "d8e5e0499530f14f9fdaaa99324a3c47ffd031b5069aadfd2a6780e54142f93c"
+        }
+      ]
+    },
+    {
+      "id": "generated/running-shorts",
+      "label": "Running shorts",
+      "kind": "garment",
+      "slot": "bottom",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 8861,
+      "shapes": 138,
+      "bytes": 26574962,
+      "preview": "previews/running-shorts.png",
+      "catalogue": {
+        "id": "generated/running-shorts",
+        "manifest": "realistic/imports/running-shorts/RunningShorts.item.json",
+        "label": "Running shorts",
+        "kind": "garment",
+        "slot": "bottom",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/running-shorts/RunningShorts.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/running-shorts/RunningShorts.binding.json",
+          "bytes": 1625144,
+          "sha256": "ce5180f5fec4b6c5d6ddb02cf955992f00f0d14ad852008625b3267597540a20"
+        },
+        {
+          "path": "library/realistic/imports/running-shorts/RunningShorts.glb",
+          "bytes": 24894244,
+          "sha256": "1b0117111e3888d1dfe0b09630cbf83b1e19f8319161f01087d685ebb57ade14"
+        },
+        {
+          "path": "library/realistic/imports/running-shorts/RunningShorts.item.json",
+          "bytes": 664,
+          "sha256": "a83627120de869d8c5e3d13c229ab2329b3b9c5dc0f247e1d2b01ece77d78ed6"
+        },
+        {
+          "path": "library/realistic/imports/running-shorts/RunningShorts.png",
+          "bytes": 54910,
+          "sha256": "2c8a88157c72ed3a7ec6c17026f08863b66871e33f992a3c265b7cf75ab0a348"
+        }
+      ]
+    },
+    {
+      "id": "generated/sherpa-jacket",
+      "label": "Sherpa jacket",
+      "kind": "garment",
+      "slot": "outerwear",
+      "layer": 3,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 9999,
+      "shapes": 138,
+      "bytes": 22191003,
+      "preview": "previews/sherpa-jacket.png",
+      "catalogue": {
+        "id": "generated/sherpa-jacket",
+        "manifest": "realistic/imports/sherpa-jacket/SherpaJacket.item.json",
+        "label": "Sherpa jacket",
+        "kind": "garment",
+        "slot": "outerwear",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/sherpa-jacket/SherpaJacket.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/sherpa-jacket/SherpaJacket.binding.json",
+          "bytes": 1464625,
+          "sha256": "c1191cff2c960e1c468b74ccf425f0bc371ef60a0d453e0178f6d20444d9e741"
+        },
+        {
+          "path": "library/realistic/imports/sherpa-jacket/SherpaJacket.glb",
+          "bytes": 20696352,
+          "sha256": "4a719065c3ea3be07b8c1c6d2c9b33a94a5d9dcab70dff04f07d7ae34f4bcb5b"
+        },
+        {
+          "path": "library/realistic/imports/sherpa-jacket/SherpaJacket.item.json",
+          "bytes": 661,
+          "sha256": "95bbbc1e18a2957991aab0756d5be17c200e5e6ee372f42b20533b2508dadf28"
+        },
+        {
+          "path": "library/realistic/imports/sherpa-jacket/SherpaJacket.png",
+          "bytes": 29365,
+          "sha256": "46f64bac68f977e9c4edfc92b857517306b6b74b12100cf2dfb96d723fafff75"
+        }
+      ]
+    },
+    {
+      "id": "generated/shirt-dress",
+      "label": "Shirt dress",
+      "kind": "garment",
+      "slot": "top",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 10000,
+      "shapes": 138,
+      "bytes": 28186553,
+      "preview": "previews/shirt-dress.png",
+      "catalogue": {
+        "id": "generated/shirt-dress",
+        "manifest": "realistic/imports/shirt-dress/ShirtDress.item.json",
+        "label": "Shirt dress",
+        "kind": "garment",
+        "slot": "top",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/shirt-dress/ShirtDress.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/shirt-dress/ShirtDress.binding.json",
+          "bytes": 1633288,
+          "sha256": "8976aecb908b9d147636e0a0916b0106d192e765963269062f03c9aa979c96dc"
+        },
+        {
+          "path": "library/realistic/imports/shirt-dress/ShirtDress.glb",
+          "bytes": 26521716,
+          "sha256": "04bc10c0588a61b328994c3b56591508309fc07f1a32052a0de470916028a4a2"
+        },
+        {
+          "path": "library/realistic/imports/shirt-dress/ShirtDress.item.json",
+          "bytes": 643,
+          "sha256": "559a147587b989b551b4d780a92031860d205bdea3ca6c69c7761e1f4abc5f87"
+        },
+        {
+          "path": "library/realistic/imports/shirt-dress/ShirtDress.png",
+          "bytes": 30906,
+          "sha256": "d0bf0baecebd415caa6c67c1ba93cba716e836ee6c1dd03fff35c3fa53669351"
+        }
+      ]
+    },
+    {
+      "id": "generated/skinny-jeans",
+      "label": "Skinny jeans",
+      "kind": "garment",
+      "slot": "bottom",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 6000,
+      "shapes": 138,
+      "bytes": 13525275,
+      "preview": "previews/skinny-jeans.png",
+      "catalogue": {
+        "id": "generated/skinny-jeans",
+        "manifest": "realistic/imports/skinny-jeans/SkinnyJeans.item.json",
+        "label": "Skinny jeans",
+        "kind": "garment",
+        "slot": "bottom",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/skinny-jeans/SkinnyJeans.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/skinny-jeans/SkinnyJeans.binding.json",
+          "bytes": 770946,
+          "sha256": "1e4a15963d4954d2ad425a79ab095580d8e1add549e6329d3136f95e3396e1e8"
+        },
+        {
+          "path": "library/realistic/imports/skinny-jeans/SkinnyJeans.glb",
+          "bytes": 12731476,
+          "sha256": "ef6a508d6ec0a03e0324bbf3b36b2f709a8f0e2e56a69c0679227e144aa74844"
+        },
+        {
+          "path": "library/realistic/imports/skinny-jeans/SkinnyJeans.item.json",
+          "bytes": 652,
+          "sha256": "b7af1b74d7bea3836cfd7591430b4f80da45f220d776dfb1cdb646fc9e84f73b"
+        },
+        {
+          "path": "library/realistic/imports/skinny-jeans/SkinnyJeans.png",
+          "bytes": 22201,
+          "sha256": "c5733967415cb63c6b0b16b97334fe4d15a84c1c1abb4c45e10389311a6552ca"
+        }
+      ]
+    },
+    {
+      "id": "generated/sleeveless-blouse",
+      "label": "Sleeveless blouse",
+      "kind": "garment",
+      "slot": "top",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 5999,
+      "shapes": 138,
+      "bytes": 14197360,
+      "preview": "previews/sleeveless-blouse.png",
+      "catalogue": {
+        "id": "generated/sleeveless-blouse",
+        "manifest": "realistic/imports/sleeveless-blouse/SleevelessBlouse.item.json",
+        "label": "Sleeveless blouse",
+        "kind": "garment",
+        "slot": "top",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/sleeveless-blouse/SleevelessBlouse.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/sleeveless-blouse/SleevelessBlouse.binding.json",
+          "bytes": 851734,
+          "sha256": "b3f61eb38452bfa88effce0bc0588958b9704dc18685bd8d911a212a0fc7321a"
+        },
+        {
+          "path": "library/realistic/imports/sleeveless-blouse/SleevelessBlouse.glb",
+          "bytes": 13313900,
+          "sha256": "05d0d11dd436b2d2d80ea605a63141a9d5195923cfb54c88a96adfa577c04d23"
+        },
+        {
+          "path": "library/realistic/imports/sleeveless-blouse/SleevelessBlouse.item.json",
+          "bytes": 679,
+          "sha256": "2cce8e2ed765cdf2351a1c6c43ebdeddb9e73730f0576db2ab8bce56483343fa"
+        },
+        {
+          "path": "library/realistic/imports/sleeveless-blouse/SleevelessBlouse.png",
+          "bytes": 31047,
+          "sha256": "3f645a4edb2ba0e28f263ac99718a496d99b626746efd0ab7b8bdba27080b658"
+        }
+      ]
+    },
+    {
+      "id": "generated/sweatpants",
+      "label": "Sweatpants",
+      "kind": "garment",
+      "slot": "bottom",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 6000,
+      "shapes": 138,
+      "bytes": 14130928,
+      "preview": "previews/sweatpants.png",
+      "catalogue": {
+        "id": "generated/sweatpants",
+        "manifest": "realistic/imports/sweatpants/Sweatpants.item.json",
+        "label": "Sweatpants",
+        "kind": "garment",
+        "slot": "bottom",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/sweatpants/Sweatpants.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/sweatpants/Sweatpants.binding.json",
+          "bytes": 903294,
+          "sha256": "0a10d3f35c8d539c30487d1320eea9434d59b558289671f59146bdbb5264220c"
+        },
+        {
+          "path": "library/realistic/imports/sweatpants/Sweatpants.glb",
+          "bytes": 13199396,
+          "sha256": "57544d62f0271aca92254b2d04a81c0a1b009b828673a8da66798f3bce6d1c0f"
+        },
+        {
+          "path": "library/realistic/imports/sweatpants/Sweatpants.item.json",
+          "bytes": 644,
+          "sha256": "7f0e5d7bd7ba24e508427811bda3c4ea1c0c1a5a2652ff48ac4b12b9e7f04c1d"
+        },
+        {
+          "path": "library/realistic/imports/sweatpants/Sweatpants.png",
+          "bytes": 27594,
+          "sha256": "afe7f0f4fd169979d41cfe15ff9320d692ed8ebbd417635ece46397298b3dfeb"
+        }
+      ]
+    },
+    {
+      "id": "generated/tank-top",
+      "label": "Tank top",
+      "kind": "garment",
+      "slot": "top",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 5999,
+      "shapes": 138,
+      "bytes": 13433145,
+      "preview": "previews/tank-top.png",
+      "catalogue": {
+        "id": "generated/tank-top",
+        "manifest": "realistic/imports/tank-top/TankTop.item.json",
+        "label": "Tank top",
+        "kind": "garment",
+        "slot": "top",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/tank-top/TankTop.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/tank-top/TankTop.binding.json",
+          "bytes": 725503,
+          "sha256": "c4f17077d87d57c76f7f4aea8277eb60ad5e37f99b99f133552b5add021dcc5e"
+        },
+        {
+          "path": "library/realistic/imports/tank-top/TankTop.glb",
+          "bytes": 12674688,
+          "sha256": "bfcd73abbcb794a986dc73d79c686870687ae51f772d15efc2a34044a4c2a88e"
+        },
+        {
+          "path": "library/realistic/imports/tank-top/TankTop.item.json",
+          "bytes": 625,
+          "sha256": "6c98f794e447178d27a85c4335eb4023ae8efa1be50d0aa7f5188fa828beb115"
+        },
+        {
+          "path": "library/realistic/imports/tank-top/TankTop.png",
+          "bytes": 32329,
+          "sha256": "b2f9fc5e9989fce8bc7485c51ab2a2098c739f31c6971fec1c037abf3e3d860b"
+        }
+      ]
+    },
+    {
+      "id": "generated/turtleneck",
+      "label": "Turtleneck sweater",
+      "kind": "garment",
+      "slot": "top",
+      "layer": 2,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 8585,
+      "shapes": 138,
+      "bytes": 28526607,
+      "preview": "previews/turtleneck.png",
+      "catalogue": {
+        "id": "generated/turtleneck",
+        "manifest": "realistic/imports/turtleneck/TurtleneckSweater.item.json",
+        "label": "Turtleneck sweater",
+        "kind": "garment",
+        "slot": "top",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/turtleneck/TurtleneckSweater.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/turtleneck/TurtleneckSweater.binding.json",
+          "bytes": 1556336,
+          "sha256": "5ed7d3155766bdafe395a9125da416e99234c5aeffd6dd9b2c4cbc2e7ccdc452"
+        },
+        {
+          "path": "library/realistic/imports/turtleneck/TurtleneckSweater.glb",
+          "bytes": 26945660,
+          "sha256": "c6f01240d753c45b336cb3977fbb6ae7494258e8ea3ab58e20055ac8b7c3b3fa"
+        },
+        {
+          "path": "library/realistic/imports/turtleneck/TurtleneckSweater.item.json",
+          "bytes": 677,
+          "sha256": "14a75439bb475553822525333b0c7248a74661d68cf0708a7e1989944c214c4b"
+        },
+        {
+          "path": "library/realistic/imports/turtleneck/TurtleneckSweater.png",
+          "bytes": 23934,
+          "sha256": "f79bd98c2dc7932febb7c2d0221ca785207031f3999312a8b56d213a76859ef6"
+        }
+      ]
+    },
+    {
+      "id": "generated/tuxedo",
+      "label": "Formal tuxedo",
+      "kind": "garment",
+      "slot": "top",
+      "layer": 2,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 9999,
+      "shapes": 138,
+      "bytes": 26014693,
+      "preview": "previews/tuxedo.png",
+      "catalogue": {
+        "id": "generated/tuxedo",
+        "manifest": "realistic/imports/tuxedo/FormalTuxedo.item.json",
+        "label": "Formal tuxedo",
+        "kind": "garment",
+        "slot": "top",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/tuxedo/FormalTuxedo.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/tuxedo/FormalTuxedo.binding.json",
+          "bytes": 1485849,
+          "sha256": "ecf3b1a6699a4eadd2c8be05b04eec8c5293aaecd036e2923e63b22d35cd44e5"
+        },
+        {
+          "path": "library/realistic/imports/tuxedo/FormalTuxedo.glb",
+          "bytes": 24504824,
+          "sha256": "944cf20a7caac374c0d1313c396c52a04a6401ccc9cbc1690e717336500485b0"
+        },
+        {
+          "path": "library/realistic/imports/tuxedo/FormalTuxedo.item.json",
+          "bytes": 648,
+          "sha256": "5943f4e6c4f16a8c61d36145fcca98468e4b5b2eb58fc1772c3f2811e078c906"
+        },
+        {
+          "path": "library/realistic/imports/tuxedo/FormalTuxedo.png",
+          "bytes": 23372,
+          "sha256": "48e25af2574475e1c8b06f108e9d8adbb3f0c8e43327089b56dea80ca0034862"
+        }
+      ]
+    },
+    {
+      "id": "generated/vneck-sweater",
+      "label": "V-neck sweater",
+      "kind": "garment",
+      "slot": "top",
+      "layer": 2,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 6768,
+      "shapes": 138,
+      "bytes": 22526087,
+      "preview": "previews/vneck-sweater.png",
+      "catalogue": {
+        "id": "generated/vneck-sweater",
+        "manifest": "realistic/imports/vneck-sweater/VNeckSweater.item.json",
+        "label": "V-neck sweater",
+        "kind": "garment",
+        "slot": "top",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/vneck-sweater/VNeckSweater.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/vneck-sweater/VNeckSweater.binding.json",
+          "bytes": 1231220,
+          "sha256": "b448502967d7078ae4eb8187d381bdd85fbec98b4a9e1247482aadbc584879af"
+        },
+        {
+          "path": "library/realistic/imports/vneck-sweater/VNeckSweater.glb",
+          "bytes": 21272176,
+          "sha256": "d1d41d2fa97c338eec28a519d4b617fec7da8268bb09bc6d1a5b97778c00e501"
+        },
+        {
+          "path": "library/realistic/imports/vneck-sweater/VNeckSweater.item.json",
+          "bytes": 656,
+          "sha256": "efc9316b66577fda366a7e0f67d6c6f83ae87534f19914504b246a0d2f244f03"
+        },
+        {
+          "path": "library/realistic/imports/vneck-sweater/VNeckSweater.png",
+          "bytes": 22035,
+          "sha256": "0ee95a7910526984cf75604048f7ab9a6515be8d91e01f6917ed64b32de87dd4"
+        }
+      ]
+    },
+    {
+      "id": "generated/wide-leg-jeans",
+      "label": "Wide-leg jeans",
+      "kind": "garment",
+      "slot": "bottom",
+      "layer": 1,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 5999,
+      "shapes": 138,
+      "bytes": 17945657,
+      "preview": "previews/wide-leg-jeans.png",
+      "catalogue": {
+        "id": "generated/wide-leg-jeans",
+        "manifest": "realistic/imports/wide-leg-jeans/WideLegJeans.item.json",
+        "label": "Wide-leg jeans",
+        "kind": "garment",
+        "slot": "bottom",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/wide-leg-jeans/WideLegJeans.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/wide-leg-jeans/WideLegJeans.binding.json",
+          "bytes": 1078868,
+          "sha256": "fbd3820791d76483eb283278d40fa464e4348e325a5c3e07ded04aae8573d89c"
+        },
+        {
+          "path": "library/realistic/imports/wide-leg-jeans/WideLegJeans.glb",
+          "bytes": 16839448,
+          "sha256": "7924c9d9b0e24b950187e8a2cc33a7d0b59daa66b16d8b75fc99c6983abed4f4"
+        },
+        {
+          "path": "library/realistic/imports/wide-leg-jeans/WideLegJeans.item.json",
+          "bytes": 660,
+          "sha256": "3be2352740df88ed1e2bdc1dca4a5b780b174629f734b404d3024f6bdbd56e41"
+        },
+        {
+          "path": "library/realistic/imports/wide-leg-jeans/WideLegJeans.png",
+          "bytes": 26681,
+          "sha256": "e911fc688d2ceb16a9484694fdff898f1208a5c6c382145f58e51d31077cb34c"
+        }
+      ]
+    },
+    {
+      "id": "generated/wool-coat",
+      "label": "Wool coat",
+      "kind": "garment",
+      "slot": "outerwear",
+      "layer": 3,
+      "quality": "draft",
+      "bases": [
+        "axcenity/realistic"
+      ],
+      "triangles": 9999,
+      "shapes": 138,
+      "bytes": 22426288,
+      "preview": "previews/wool-coat.png",
+      "catalogue": {
+        "id": "generated/wool-coat",
+        "manifest": "realistic/imports/wool-coat/WoolCoat.item.json",
+        "label": "Wool coat",
+        "kind": "garment",
+        "slot": "outerwear",
+        "tier": "premium",
+        "bases": [
+          "axcenity/realistic"
+        ],
+        "tags": [
+          "imported"
+        ],
+        "thumbnail": "realistic/imports/wool-coat/WoolCoat.png"
+      },
+      "files": [
+        {
+          "path": "library/realistic/imports/wool-coat/WoolCoat.binding.json",
+          "bytes": 1323391,
+          "sha256": "f24027c4e3a0d354b440706c22a3818dd1b3c604f4ccfd9eda14b2e5aac3266c"
+        },
+        {
+          "path": "library/realistic/imports/wool-coat/WoolCoat.glb",
+          "bytes": 21074360,
+          "sha256": "3cb7d0853a81523c197f614fc7a945e68f9d85a84b889f40112805e855ed575e"
+        },
+        {
+          "path": "library/realistic/imports/wool-coat/WoolCoat.item.json",
+          "bytes": 637,
+          "sha256": "585f15235ef64a74063bb71b06f9482ad4dd05ee7173b5d98f63dd735aa4cfb5"
+        },
+        {
+          "path": "library/realistic/imports/wool-coat/WoolCoat.png",
+          "bytes": 27900,
+          "sha256": "4823b7b668a6b52debac8e4622f047d97d6807127fa2bb590ce462446d420b17"
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "name": "f-biker-tank-skinny",
+      "file": "outfits/f-biker-tank-skinny.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-briefs",
+        "axcenity/realistic-sports-bra",
+        "axcenity/realistic-hair-short-crop",
+        "generated/biker-jacket",
+        "generated/tank-top",
+        "generated/skinny-jeans"
+      ]
+    },
+    {
+      "name": "f-blouse-wide-jeans",
+      "file": "outfits/f-blouse-wide-jeans.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-briefs",
+        "axcenity/realistic-sports-bra",
+        "axcenity/realistic-hair-short-crop",
+        "generated/puff-blouse",
+        "generated/wide-leg-jeans"
+      ]
+    },
+    {
+      "name": "f-burgundy-dress",
+      "file": "outfits/f-burgundy-dress.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-briefs",
+        "axcenity/realistic-sports-bra",
+        "axcenity/realistic-hair-short-crop",
+        "generated/burgundy-dress"
+      ]
+    },
+    {
+      "name": "f-coat",
+      "file": "outfits/f-coat.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-briefs",
+        "axcenity/realistic-sports-bra",
+        "axcenity/realistic-hair-short-crop",
+        "generated/wool-coat",
+        "generated/skinny-jeans"
+      ]
+    },
+    {
+      "name": "f-cocktail-dress",
+      "file": "outfits/f-cocktail-dress.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-briefs",
+        "axcenity/realistic-sports-bra",
+        "axcenity/realistic-hair-short-crop",
+        "generated/cocktail-dress"
+      ]
+    },
+    {
+      "name": "f-jumpsuit",
+      "file": "outfits/f-jumpsuit.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-briefs",
+        "axcenity/realistic-sports-bra",
+        "axcenity/realistic-hair-short-crop",
+        "generated/jumpsuit"
+      ]
+    },
+    {
+      "name": "f-offshoulder-skirt",
+      "file": "outfits/f-offshoulder-skirt.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-briefs",
+        "axcenity/realistic-sports-bra",
+        "axcenity/realistic-hair-short-crop",
+        "generated/off-shoulder-top",
+        "generated/leather-mini-skirt"
+      ]
+    },
+    {
+      "name": "f-shirt-dress",
+      "file": "outfits/f-shirt-dress.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-briefs",
+        "axcenity/realistic-sports-bra",
+        "axcenity/realistic-hair-short-crop",
+        "generated/shirt-dress"
+      ]
+    },
+    {
+      "name": "f-sleeveless-skinny",
+      "file": "outfits/f-sleeveless-skinny.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-briefs",
+        "axcenity/realistic-sports-bra",
+        "axcenity/realistic-hair-short-crop",
+        "generated/sleeveless-blouse",
+        "generated/skinny-jeans"
+      ]
+    },
+    {
+      "name": "f-sweatshirt-leggings",
+      "file": "outfits/f-sweatshirt-leggings.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-briefs",
+        "axcenity/realistic-sports-bra",
+        "axcenity/realistic-hair-short-crop",
+        "generated/cropped-sweatshirt",
+        "generated/leggings"
+      ]
+    },
+    {
+      "name": "f-tank-denim-shorts",
+      "file": "outfits/f-tank-denim-shorts.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-briefs",
+        "axcenity/realistic-sports-bra",
+        "axcenity/realistic-hair-short-crop",
+        "generated/tank-top",
+        "generated/denim-shorts"
+      ]
+    },
+    {
+      "name": "m-bomber-polo-trousers",
+      "file": "outfits/m-bomber-polo-trousers.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-boxer-briefs",
+        "axcenity/realistic-hair-short-crop",
+        "generated/bomber-jacket",
+        "generated/polo",
+        "generated/dress-trousers"
+      ]
+    },
+    {
+      "name": "m-flannel-sweatpants",
+      "file": "outfits/m-flannel-sweatpants.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-boxer-briefs",
+        "axcenity/realistic-hair-short-crop",
+        "generated/flannel-shirt",
+        "generated/sweatpants"
+      ]
+    },
+    {
+      "name": "m-overalls",
+      "file": "outfits/m-overalls.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-boxer-briefs",
+        "axcenity/realistic-hair-short-crop",
+        "generated/overalls"
+      ]
+    },
+    {
+      "name": "m-polo-chinos",
+      "file": "outfits/m-polo-chinos.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-boxer-briefs",
+        "axcenity/realistic-hair-short-crop",
+        "generated/polo",
+        "generated/chino-shorts"
+      ]
+    },
+    {
+      "name": "m-puffer-cargo",
+      "file": "outfits/m-puffer-cargo.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-boxer-briefs",
+        "axcenity/realistic-hair-short-crop",
+        "generated/puffer-jacket",
+        "generated/cargo-pants"
+      ]
+    },
+    {
+      "name": "m-running-shorts",
+      "file": "outfits/m-running-shorts.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-boxer-briefs",
+        "axcenity/realistic-hair-short-crop",
+        "generated/running-shorts"
+      ]
+    },
+    {
+      "name": "m-sherpa-sweatpants",
+      "file": "outfits/m-sherpa-sweatpants.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-boxer-briefs",
+        "axcenity/realistic-hair-short-crop",
+        "generated/sherpa-jacket",
+        "generated/sweatpants"
+      ]
+    },
+    {
+      "name": "m-turtleneck-trousers",
+      "file": "outfits/m-turtleneck-trousers.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-boxer-briefs",
+        "axcenity/realistic-hair-short-crop",
+        "generated/turtleneck",
+        "generated/dress-trousers"
+      ]
+    },
+    {
+      "name": "m-tuxedo",
+      "file": "outfits/m-tuxedo.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-boxer-briefs",
+        "axcenity/realistic-hair-short-crop",
+        "generated/tuxedo"
+      ]
+    },
+    {
+      "name": "m-vneck-cargo",
+      "file": "outfits/m-vneck-cargo.character.json",
+      "base": "axcenity/realistic",
+      "items": [
+        "axcenity/realistic-boxer-briefs",
+        "axcenity/realistic-hair-short-crop",
+        "generated/vneck-sweater",
+        "generated/cargo-pants"
+      ]
+    }
+  ],
+  "held_back": [
+    {
+      "id": "generated/business-suit",
+      "why": "the trouser legs tear"
+    },
+    {
+      "id": "generated/maxi-dress",
+      "why": "the loose strips of the skirt fly apart"
+    }
+  ]
+}

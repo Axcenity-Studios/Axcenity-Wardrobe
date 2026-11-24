@@ -1,0 +1,25 @@
+{
+ "format_version": 2,
+ "name": "f-sweatshirt-leggings",
+ "base": "axcenity/realistic",
+ "parameters": {
+  "frame": 1
+ },
+ "items": [
+  {
+   "id": "axcenity/realistic-briefs"
+  },
+  {
+   "id": "axcenity/realistic-sports-bra"
+  },
+  {
+   "id": "axcenity/realistic-hair-short-crop"
+  },
+  {
+   "id": "generated/cropped-sweatshirt"
+  },
+  {
+   "id": "generated/leggings"
+  }
+ ]
+}

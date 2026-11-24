@@ -1,0 +1,25 @@
+{
+ "format_version": 2,
+ "name": "m-bomber-polo-trousers",
+ "base": "axcenity/realistic",
+ "parameters": {
+  "frame": 0
+ },
+ "items": [
+  {
+   "id": "axcenity/realistic-boxer-briefs"
+  },
+  {
+   "id": "axcenity/realistic-hair-short-crop"
+  },
+  {
+   "id": "generated/bomber-jacket"
+  },
+  {
+   "id": "generated/polo"
+  },
+  {
+   "id": "generated/dress-trousers"
+  }
+ ]
+}

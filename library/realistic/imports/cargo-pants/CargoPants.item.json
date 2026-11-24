@@ -1,0 +1,36 @@
+{
+  "format_version": 1,
+  "id": "generated/cargo-pants",
+  "label": "Cargo pants",
+  "kind": "garment",
+  "slot": "bottom",
+  "layer": 1,
+  "tier": "premium",
+  "bases": [
+    "axcenity/realistic"
+  ],
+  "model": {
+    "file": "CargoPants.glb",
+    "object": "AxcenityRealistic/CargoPants"
+  },
+  "materials": [
+    {
+      "name": "BakedMaterial",
+      "shading": "cloth"
+    }
+  ],
+  "fit": {
+    "method": "binding",
+    "data": "CargoPants.binding.json",
+    "margin": 0.002
+  },
+  "tags": [
+    "imported"
+  ],
+  "thumbnail": "CargoPants.png",
+  "source": {
+    "author": "Axcenity",
+    "licence": "CC-BY-4.0"
+  },
+  "quality": "draft"
+}

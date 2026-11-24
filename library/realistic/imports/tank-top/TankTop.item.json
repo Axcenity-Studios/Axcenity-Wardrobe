@@ -1,0 +1,36 @@
+{
+  "format_version": 1,
+  "id": "generated/tank-top",
+  "label": "Tank top",
+  "kind": "garment",
+  "slot": "top",
+  "layer": 1,
+  "tier": "premium",
+  "bases": [
+    "axcenity/realistic"
+  ],
+  "model": {
+    "file": "TankTop.glb",
+    "object": "AxcenityRealistic/TankTop"
+  },
+  "materials": [
+    {
+      "name": "BakedMaterial",
+      "shading": "cloth"
+    }
+  ],
+  "fit": {
+    "method": "binding",
+    "data": "TankTop.binding.json",
+    "margin": 0.002
+  },
+  "tags": [
+    "imported"
+  ],
+  "thumbnail": "TankTop.png",
+  "source": {
+    "author": "Axcenity",
+    "licence": "CC-BY-4.0"
+  },
+  "quality": "draft"
+}

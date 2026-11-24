@@ -1,0 +1,36 @@
+{
+  "format_version": 1,
+  "id": "generated/cropped-sweatshirt",
+  "label": "Cropped sweatshirt",
+  "kind": "garment",
+  "slot": "top",
+  "layer": 2,
+  "tier": "premium",
+  "bases": [
+    "axcenity/realistic"
+  ],
+  "model": {
+    "file": "CroppedSweatshirt.glb",
+    "object": "AxcenityRealistic/CroppedSweatshirt"
+  },
+  "materials": [
+    {
+      "name": "BakedMaterial",
+      "shading": "cloth"
+    }
+  ],
+  "fit": {
+    "method": "binding",
+    "data": "CroppedSweatshirt.binding.json",
+    "margin": 0.002
+  },
+  "tags": [
+    "imported"
+  ],
+  "thumbnail": "CroppedSweatshirt.png",
+  "source": {
+    "author": "Axcenity",
+    "licence": "CC-BY-4.0"
+  },
+  "quality": "draft"
+}

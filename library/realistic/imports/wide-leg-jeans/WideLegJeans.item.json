@@ -1,0 +1,36 @@
+{
+  "format_version": 1,
+  "id": "generated/wide-leg-jeans",
+  "label": "Wide-leg jeans",
+  "kind": "garment",
+  "slot": "bottom",
+  "layer": 1,
+  "tier": "premium",
+  "bases": [
+    "axcenity/realistic"
+  ],
+  "model": {
+    "file": "WideLegJeans.glb",
+    "object": "AxcenityRealistic/WideLegJeans"
+  },
+  "materials": [
+    {
+      "name": "BakedMaterial",
+      "shading": "cloth"
+    }
+  ],
+  "fit": {
+    "method": "binding",
+    "data": "WideLegJeans.binding.json",
+    "margin": 0.002
+  },
+  "tags": [
+    "imported"
+  ],
+  "thumbnail": "WideLegJeans.png",
+  "source": {
+    "author": "Axcenity",
+    "licence": "CC-BY-4.0"
+  },
+  "quality": "draft"
+}

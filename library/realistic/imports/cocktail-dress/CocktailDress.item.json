@@ -1,0 +1,36 @@
+{
+  "format_version": 1,
+  "id": "generated/cocktail-dress",
+  "label": "Cocktail dress",
+  "kind": "garment",
+  "slot": "top",
+  "layer": 1,
+  "tier": "premium",
+  "bases": [
+    "axcenity/realistic"
+  ],
+  "model": {
+    "file": "CocktailDress.glb",
+    "object": "AxcenityRealistic/CocktailDress"
+  },
+  "materials": [
+    {
+      "name": "BakedMaterial",
+      "shading": "cloth"
+    }
+  ],
+  "fit": {
+    "method": "binding",
+    "data": "CocktailDress.binding.json",
+    "margin": 0.002
+  },
+  "tags": [
+    "imported"
+  ],
+  "thumbnail": "CocktailDress.png",
+  "source": {
+    "author": "Axcenity",
+    "licence": "CC-BY-4.0"
+  },
+  "quality": "draft"
+}

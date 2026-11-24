@@ -1,0 +1,36 @@
+{
+  "format_version": 1,
+  "id": "generated/off-shoulder-top",
+  "label": "Off-shoulder top",
+  "kind": "garment",
+  "slot": "top",
+  "layer": 1,
+  "tier": "premium",
+  "bases": [
+    "axcenity/realistic"
+  ],
+  "model": {
+    "file": "OffShoulderTop.glb",
+    "object": "AxcenityRealistic/OffShoulderTop"
+  },
+  "materials": [
+    {
+      "name": "BakedMaterial",
+      "shading": "cloth"
+    }
+  ],
+  "fit": {
+    "method": "binding",
+    "data": "OffShoulderTop.binding.json",
+    "margin": 0.002
+  },
+  "tags": [
+    "imported"
+  ],
+  "thumbnail": "OffShoulderTop.png",
+  "source": {
+    "author": "Axcenity",
+    "licence": "CC-BY-4.0"
+  },
+  "quality": "draft"
+}

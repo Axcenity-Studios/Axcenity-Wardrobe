@@ -1,0 +1,36 @@
+{
+  "format_version": 1,
+  "id": "generated/vneck-sweater",
+  "label": "V-neck sweater",
+  "kind": "garment",
+  "slot": "top",
+  "layer": 2,
+  "tier": "premium",
+  "bases": [
+    "axcenity/realistic"
+  ],
+  "model": {
+    "file": "VNeckSweater.glb",
+    "object": "AxcenityRealistic/VNeckSweater"
+  },
+  "materials": [
+    {
+      "name": "BakedMaterial",
+      "shading": "cloth"
+    }
+  ],
+  "fit": {
+    "method": "binding",
+    "data": "VNeckSweater.binding.json",
+    "margin": 0.002
+  },
+  "tags": [
+    "imported"
+  ],
+  "thumbnail": "VNeckSweater.png",
+  "source": {
+    "author": "Axcenity",
+    "licence": "CC-BY-4.0"
+  },
+  "quality": "draft"
+}

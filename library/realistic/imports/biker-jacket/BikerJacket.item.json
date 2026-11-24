@@ -1,0 +1,36 @@
+{
+  "format_version": 1,
+  "id": "generated/biker-jacket",
+  "label": "Biker jacket",
+  "kind": "garment",
+  "slot": "outerwear",
+  "layer": 3,
+  "tier": "premium",
+  "bases": [
+    "axcenity/realistic"
+  ],
+  "model": {
+    "file": "BikerJacket.glb",
+    "object": "AxcenityRealistic/BikerJacket"
+  },
+  "materials": [
+    {
+      "name": "BakedMaterial",
+      "shading": "cloth"
+    }
+  ],
+  "fit": {
+    "method": "binding",
+    "data": "BikerJacket.binding.json",
+    "margin": 0.002
+  },
+  "tags": [
+    "imported"
+  ],
+  "thumbnail": "BikerJacket.png",
+  "source": {
+    "author": "Axcenity",
+    "licence": "CC-BY-4.0"
+  },
+  "quality": "draft"
+}

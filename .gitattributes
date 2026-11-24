@@ -1,0 +1,6 @@
+# Models are compressed already and never differ by a little: don't look for deltas.
+*.glb binary -delta
+*.png binary
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf

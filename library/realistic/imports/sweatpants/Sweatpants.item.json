@@ -1,0 +1,36 @@
+{
+  "format_version": 1,
+  "id": "generated/sweatpants",
+  "label": "Sweatpants",
+  "kind": "garment",
+  "slot": "bottom",
+  "layer": 1,
+  "tier": "premium",
+  "bases": [
+    "axcenity/realistic"
+  ],
+  "model": {
+    "file": "Sweatpants.glb",
+    "object": "AxcenityRealistic/Sweatpants"
+  },
+  "materials": [
+    {
+      "name": "BakedMaterial",
+      "shading": "cloth"
+    }
+  ],
+  "fit": {
+    "method": "binding",
+    "data": "Sweatpants.binding.json",
+    "margin": 0.002
+  },
+  "tags": [
+    "imported"
+  ],
+  "thumbnail": "Sweatpants.png",
+  "source": {
+    "author": "Axcenity",
+    "licence": "CC-BY-4.0"
+  },
+  "quality": "draft"
+}

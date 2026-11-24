@@ -1,0 +1,22 @@
+{
+ "format_version": 2,
+ "name": "m-turtleneck-trousers",
+ "base": "axcenity/realistic",
+ "parameters": {
+  "frame": 0
+ },
+ "items": [
+  {
+   "id": "axcenity/realistic-boxer-briefs"
+  },
+  {
+   "id": "axcenity/realistic-hair-short-crop"
+  },
+  {
+   "id": "generated/turtleneck"
+  },
+  {
+   "id": "generated/dress-trousers"
+  }
+ ]
+}

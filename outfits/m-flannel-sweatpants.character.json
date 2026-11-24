@@ -1,0 +1,22 @@
+{
+ "format_version": 2,
+ "name": "m-flannel-sweatpants",
+ "base": "axcenity/realistic",
+ "parameters": {
+  "frame": 0
+ },
+ "items": [
+  {
+   "id": "axcenity/realistic-boxer-briefs"
+  },
+  {
+   "id": "axcenity/realistic-hair-short-crop"
+  },
+  {
+   "id": "generated/flannel-shirt"
+  },
+  {
+   "id": "generated/sweatpants"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+  "format_version": 1,
+  "id": "generated/shirt-dress",
+  "label": "Shirt dress",
+  "kind": "garment",
+  "slot": "top",
+  "layer": 1,
+  "tier": "premium",
+  "bases": [
+    "axcenity/realistic"
+  ],
+  "model": {
+    "file": "ShirtDress.glb",
+    "object": "AxcenityRealistic/ShirtDress"
+  },
+  "materials": [
+    {
+      "name": "BakedMaterial",
+      "shading": "cloth"
+    }
+  ],
+  "fit": {
+    "method": "binding",
+    "data": "ShirtDress.binding.json",
+    "margin": 0.002
+  },
+  "tags": [
+    "imported"
+  ],
+  "thumbnail": "ShirtDress.png",
+  "source": {
+    "author": "Axcenity",
+    "licence": "CC-BY-4.0"
+  },
+  "quality": "draft"
+}

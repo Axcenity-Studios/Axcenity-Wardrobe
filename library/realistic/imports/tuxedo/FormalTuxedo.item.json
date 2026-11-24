@@ -1,0 +1,36 @@
+{
+  "format_version": 1,
+  "id": "generated/tuxedo",
+  "label": "Formal tuxedo",
+  "kind": "garment",
+  "slot": "top",
+  "layer": 2,
+  "tier": "premium",
+  "bases": [
+    "axcenity/realistic"
+  ],
+  "model": {
+    "file": "FormalTuxedo.glb",
+    "object": "AxcenityRealistic/FormalTuxedo"
+  },
+  "materials": [
+    {
+      "name": "BakedMaterial",
+      "shading": "cloth"
+    }
+  ],
+  "fit": {
+    "method": "binding",
+    "data": "FormalTuxedo.binding.json",
+    "margin": 0.002
+  },
+  "tags": [
+    "imported"
+  ],
+  "thumbnail": "FormalTuxedo.png",
+  "source": {
+    "author": "Axcenity",
+    "licence": "CC-BY-4.0"
+  },
+  "quality": "draft"
+}

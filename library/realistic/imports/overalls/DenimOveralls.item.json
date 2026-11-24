@@ -1,0 +1,39 @@
+{
+  "format_version": 1,
+  "id": "generated/overalls",
+  "label": "Denim overalls",
+  "kind": "garment",
+  "slot": "top",
+  "layer": 2,
+  "tier": "premium",
+  "bases": [
+    "axcenity/realistic"
+  ],
+  "model": {
+    "file": "DenimOveralls.glb",
+    "object": "AxcenityRealistic/DenimOveralls"
+  },
+  "hides": [
+    "shins_low"
+  ],
+  "materials": [
+    {
+      "name": "BakedMaterial",
+      "shading": "cloth"
+    }
+  ],
+  "fit": {
+    "method": "binding",
+    "data": "DenimOveralls.binding.json",
+    "margin": 0.002
+  },
+  "tags": [
+    "imported"
+  ],
+  "thumbnail": "DenimOveralls.png",
+  "source": {
+    "author": "Axcenity",
+    "licence": "CC-BY-4.0"
+  },
+  "quality": "draft"
+}

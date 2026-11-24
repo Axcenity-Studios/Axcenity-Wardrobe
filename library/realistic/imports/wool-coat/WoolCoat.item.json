@@ -1,0 +1,36 @@
+{
+  "format_version": 1,
+  "id": "generated/wool-coat",
+  "label": "Wool coat",
+  "kind": "garment",
+  "slot": "outerwear",
+  "layer": 3,
+  "tier": "premium",
+  "bases": [
+    "axcenity/realistic"
+  ],
+  "model": {
+    "file": "WoolCoat.glb",
+    "object": "AxcenityRealistic/WoolCoat"
+  },
+  "materials": [
+    {
+      "name": "BakedMaterial",
+      "shading": "cloth"
+    }
+  ],
+  "fit": {
+    "method": "binding",
+    "data": "WoolCoat.binding.json",
+    "margin": 0.002
+  },
+  "tags": [
+    "imported"
+  ],
+  "thumbnail": "WoolCoat.png",
+  "source": {
+    "author": "Axcenity",
+    "licence": "CC-BY-4.0"
+  },
+  "quality": "draft"
+}
